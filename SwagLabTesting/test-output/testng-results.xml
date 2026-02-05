@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-24T17:31:41 IST" name="Default suite" finished-at="2026-01-24T17:31:47 IST" duration-ms="5991">
+  <suite started-at="2026-02-06T03:51:11 IST" name="Default suite" finished-at="2026-02-06T03:51:15 IST" duration-ms="3324">
     <groups>
     </groups>
-    <test started-at="2026-01-24T17:31:41 IST" name="Default test" finished-at="2026-01-24T17:31:47 IST" duration-ms="5991">
-      <class name="testCase.TC002_AddToCartTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC002_AddToCartTest@62379589]" started-at="2026-01-24T17:31:41 IST" name="setup" finished-at="2026-01-24T17:31:46 IST" duration-ms="4640" status="PASS">
+    <test started-at="2026-02-06T03:51:11 IST" name="Default test" finished-at="2026-02-06T03:51:15 IST" duration-ms="3324">
+      <class name="testCase.TC007_HighToLowPriceSorting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC007_HighToLowPriceSorting@36fc695d]" started-at="2026-02-06T03:51:11 IST" name="setup" finished-at="2026-02-06T03:51:14 IST" duration-ms="2554" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addToCart()[pri:0, instance:testCase.TC002_AddToCartTest@62379589]" started-at="2026-01-24T17:31:46 IST" name="addToCart" finished-at="2026-01-24T17:31:47 IST" duration-ms="1308" status="PASS">
+        <test-method signature="highToLowPrice()[pri:0, instance:testCase.TC007_HighToLowPriceSorting@36fc695d]" started-at="2026-02-06T03:51:14 IST" name="highToLowPrice" finished-at="2026-02-06T03:51:15 IST" duration-ms="730" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addToCart -->
-      </class> <!-- testCase.TC002_AddToCartTest -->
+        </test-method> <!-- highToLowPrice -->
+      </class> <!-- testCase.TC007_HighToLowPriceSorting -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
