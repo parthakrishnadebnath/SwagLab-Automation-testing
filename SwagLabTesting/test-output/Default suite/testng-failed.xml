@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCase.TC004_PlaceOrder">
+      <class name="testCase.TC008_LowToHigh">
         <methods>
-          <include name="placeOrder"/>
+          <include name="lowToHigh"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCase.TC004_PlaceOrder -->
+      </class> <!-- testCase.TC008_LowToHigh -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

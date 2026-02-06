@@ -8,9 +8,10 @@ import pageObjects.HighToLowPrice;
 import testBase.BaseClass;
 
 
-@Test
+
 public class TC007_HighToLowPriceSorting extends BaseClass{
 	
+	@Test
 	public void highToLowPrice() {
 		HighToLowPrice hl=new HighToLowPrice(driver);
 		hl.enterUsername();

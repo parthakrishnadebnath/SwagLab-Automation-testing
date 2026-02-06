@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-06T03:51:11 IST" name="Default suite" finished-at="2026-02-06T03:51:15 IST" duration-ms="3324">
+  <suite started-at="2026-02-06T17:30:03 IST" name="Default suite" finished-at="2026-02-06T17:30:09 IST" duration-ms="5474">
     <groups>
     </groups>
-    <test started-at="2026-02-06T03:51:11 IST" name="Default test" finished-at="2026-02-06T03:51:15 IST" duration-ms="3324">
-      <class name="testCase.TC007_HighToLowPriceSorting">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC007_HighToLowPriceSorting@36fc695d]" started-at="2026-02-06T03:51:11 IST" name="setup" finished-at="2026-02-06T03:51:14 IST" duration-ms="2554" status="PASS">
+    <test started-at="2026-02-06T17:30:03 IST" name="Default test" finished-at="2026-02-06T17:30:09 IST" duration-ms="5474">
+      <class name="testCase.TC010_NameZToA">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC010_NameZToA@3754a4bf]" started-at="2026-02-06T17:30:04 IST" name="setup" finished-at="2026-02-06T17:30:08 IST" duration-ms="4200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="highToLowPrice()[pri:0, instance:testCase.TC007_HighToLowPriceSorting@36fc695d]" started-at="2026-02-06T03:51:14 IST" name="highToLowPrice" finished-at="2026-02-06T03:51:15 IST" duration-ms="730" status="PASS">
+        <test-method signature="nameZToA()[pri:0, instance:testCase.TC010_NameZToA@3754a4bf]" started-at="2026-02-06T17:30:08 IST" name="nameZToA" finished-at="2026-02-06T17:30:09 IST" duration-ms="1221" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- highToLowPrice -->
-      </class> <!-- testCase.TC007_HighToLowPriceSorting -->
+        </test-method> <!-- nameZToA -->
+      </class> <!-- testCase.TC010_NameZToA -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
